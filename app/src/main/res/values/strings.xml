@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyBooks</string>
+    <string name="add_book" />
+    <string name="add" />
+    <string name="enter_book_title" />
+    <string name="title_required" />
+    <string name="enter_book_year" />
+    <string name="year_required" />
+    <string name="enter_author" />
+    <string name="enter_isbn">Enter isbn</string>
+</resources>
